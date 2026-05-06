@@ -1,0 +1,12 @@
+создайте локально на своем пк папку saint_petersburg
+наименования папки лучше не менять
+
+scenario_1_buisiness_fixed - рабочий бизнес сценарий 
+scenario_2_residential_fixed - рабочий жилой сценарий
+scenario_3_kad2_real_case_fixed - сценарий с трассировкой кад 2
+
+Открыть их в VS Code или PyCharm
+
+Результаты моделирования сохранятся в scenario_outputs
+
+скачать весь архив можно тут https://disk.yandex.ru/d/qP-PUsyllLXmeQ

@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "КАД_2_развязки",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1 }, "geometry": { "type": "Point", "coordinates": [ 30.3609567, 60.221739900000031 ] } },
+{ "type": "Feature", "properties": { "fid": 4 }, "geometry": { "type": "Point", "coordinates": [ 30.5898265, 60.0419163 ] } },
+{ "type": "Feature", "properties": { "fid": 3 }, "geometry": { "type": "Point", "coordinates": [ 30.5345783, 60.1013742 ] } },
+{ "type": "Feature", "properties": { "fid": 2 }, "geometry": { "type": "Point", "coordinates": [ 30.5556207, 60.1862121 ] } },
+{ "type": "Feature", "properties": { "fid": 5 }, "geometry": { "type": "Point", "coordinates": [ 30.7550944, 60.1000915 ] } },
+{ "type": "Feature", "properties": { "fid": 7 }, "geometry": { "type": "Point", "coordinates": [ 30.8203258, 59.909145500000029 ] } },
+{ "type": "Feature", "properties": { "fid": 9 }, "geometry": { "type": "Point", "coordinates": [ 30.7797735, 59.738409500000031 ] } },
+{ "type": "Feature", "properties": { "fid": 8 }, "geometry": { "type": "Point", "coordinates": [ 30.8630722, 59.809951 ] } },
+{ "type": "Feature", "properties": { "fid": 10 }, "geometry": { "type": "Point", "coordinates": [ 30.598585, 59.677235300000028 ] } },
+{ "type": "Feature", "properties": { "fid": 6 }, "geometry": { "type": "Point", "coordinates": [ 30.828166611608118, 60.027390978926022 ] } }
+]
+}
